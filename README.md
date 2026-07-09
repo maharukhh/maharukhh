@@ -51,10 +51,11 @@ Robotics &amp; Intelligence System Student | Python Developer | ML, NLP &amp; Co
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=maharukhh&layout=compact&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 GitHub Streak
+### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=maharukhh&background=00000000&border=0000&stroke=f43f5e&ring=f43f5e&fire=f43f5e&currStreakLabel=f43f5e&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub Streak Stats" />
+  <img width="100%" src="https://github-readme-activity-graph-iota-three.vercel.app/graph?username=maharukhh&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true&count_private=true" alt="activity graph" />
+</p>
 </p>
 
 ---
