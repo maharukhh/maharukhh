@@ -54,7 +54,7 @@ Robotics &amp; Intelligence System Student | Python Developer | ML, NLP &amp; Co
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharukhh&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharukhh&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true&count_private=true" alt="activity graph" />
 </p>
 
 ---
