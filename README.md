@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/maharukhh">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8b69ab&fontSize=54&height=90&width=570&text=HI!%20I'm%20Mahrukh" alt="HI! I&#39;m Mahrukh" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f43f5e&fontSize=54&height=90&width=570&text=HI!%20I'm%20Mahrukh" alt="HI! I&#39;m Mahrukh" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=775&height=44&lines=Exploring%20robotics%2C%20AI%2C%20and%20everything%20in%20between;Passionate%20about%20AI%20and%20problem-solving" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=775&height=44&lines=Exploring%20robotics%2C%20AI%2C%20and%20everything%20in%20between;Passionate%20about%20AI%20and%20problem-solving" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -47,14 +47,14 @@ Robotics &amp; Intelligence System Student | Python Developer | ML, NLP &amp; Co
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=maharukhh&show_icons=true&theme=tokyonight&title_color=8b69ab&icon_color=8b69ab&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=maharukhh&layout=compact&theme=tokyonight&title_color=8b69ab&icon_color=8b69ab&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=maharukhh&show_icons=true&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=maharukhh&layout=compact&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharukhh&bg_color=00000000&color=8b69ab&line=8b69ab&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharukhh&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
