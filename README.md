@@ -10,11 +10,11 @@
 
 ### 🚀 About Me
 
-Robotics &amp; Intelligence System Student | Python Developer | ML, NLP &amp; Computer Vision Enthusiast | Building AI projects and solving real-world problems
+Robotics &amp; Robotics & Intelligent Systems Student | Python, Web & App Developer | Building AI Projects, Modern Web Applications & Real-World Solutions
 
 🔭 &nbsp;I'm currently working on **an AI/ML project applying computer vision to real-world problems**  
-🌱 &nbsp;I'm currently learning **Deep Learning and advanced NLP techniques**  
-💬 &nbsp;Ask me about **Python, Machine Learning, NLP, Computer Vision, Robotics**  
+🌱 &nbsp;I'm currently learning **Deep Learning, Web & App Developer and advanced NLP techniques**  
+💬 &nbsp;Ask me about **Python,Web & App Developer, Machine Learning, NLP, Computer Vision, Robotics**  
 😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;Fun fact: **I love turning research papers into working code**
 
