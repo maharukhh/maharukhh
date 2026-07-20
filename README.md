@@ -12,11 +12,11 @@
 
 Robotics &amp; Robotics & Intelligent Systems Student | Python, Web & App Developer | Building AI Projects, Modern Web Applications & Real-World Solutions
 
-🔭 &nbsp;I'm currently working on **an AI/ML project applying computer vision to real-world problems**  
-🌱 &nbsp;I'm currently learning **Deep Learning, Web & App Developer and advanced NLP techniques**  
+🔭 &nbsp;I'm currently working on **an AI/ML project applying computer vision to real-world problems and web/app development**  
+🌱 &nbsp;I'm currently learning **Deep Learning, Web & App Development and advanced NLP techniques**  
 💬 &nbsp;Ask me about **Python,Web & App Developer, Machine Learning, NLP, Computer Vision, Robotics**  
 😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I love turning research papers into working code**
+⚡ &nbsp;Fun fact: **I love turning ideas into working code**
 
 ### 🛠️ Tech Stack
 
